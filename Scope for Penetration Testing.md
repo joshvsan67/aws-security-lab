@@ -1,4 +1,4 @@
-# Amazon's scope for penetration testing
+# Amazon's Scope for Penetration Testing
 
 <img width="1520" height="700" alt="Scope" src="https://github.com/user-attachments/assets/29cc44f0-ef64-460f-8df1-a69398ab20d1" />
 
