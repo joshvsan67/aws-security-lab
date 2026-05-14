@@ -6,9 +6,7 @@ Shout-out to Claude! Helped me fix some of the errors I was getting with log ing
 
 ## Issues & Fixes
 1. CloudFormation Stack Stuck in ROLLBACK_COMPLETE
-
-Manually deleted stuck stacks with aws cloudformation delete-stack
-
+  - Manually deleted stuck stacks with aws cloudformation delete-stack
 2. Invalid IAM Permissions
 3. Deprecated go1.x Runtime
   - Functionbeat 8.x hardcodes go1.x which AWS deprecated in 2024
