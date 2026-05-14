@@ -7,6 +7,9 @@
 ## Purpose
 This lab was created for educational purposes to practice cloud security monitoring, IAM hardening, detection engineering, and threat hunting within authorized AWS resources.
 
+[IAM Creation/Hardening](https://github.com/joshvsan67/aws-security-lab/tree/main/IAM%20Creation%20%7C%20Hardening)
+[Setup for AWS Services and ELK Installation/Integration](https://github.com/joshvsan67/aws-security-lab/tree/main/AWS%20Setup)
+
 ## Screenshots from Lab
 
 **Elastic Search**
@@ -23,7 +26,7 @@ This lab was created for educational purposes to practice cloud security monitor
 
 
 
-## In-Scope Services
+## In-Scope Services for Later Penetration Testing
 - IAM
 - EC2
 - CloudTrail
