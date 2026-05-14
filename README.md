@@ -9,8 +9,13 @@ This lab was created for educational purposes to practice cloud security monitor
 
 ## Screenshots from Lab
 
-Elastic Search
+**Elastic Search**
+
 <img width="1901" height="912" alt="image" src="https://github.com/user-attachments/assets/cf1eb9fb-80cb-403e-809a-dc4136432591" />
+
+**VPC**
+
+<img width="1648" height="283" alt="image" src="https://github.com/user-attachments/assets/fae17335-7a35-4683-99cc-af5a823a3c20" />
 
 
 ## In-Scope Services
