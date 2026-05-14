@@ -2,9 +2,9 @@
 
 ## User Groups
 
-<img width="1665" height="815" alt="Lab Analyst User for Logs" src="https://github.com/user-attachments/assets/34dd7d70-b333-4030-bb40-05f5b8be5e2f" />
+<img width="765" height="357" alt="IAM User Groups" src="https://github.com/user-attachments/assets/dc91b922-576c-4b8e-8d8b-04bc378f1048" />
 
-## Soc Analysts
+## SOC Analysts
 
 SOC should only have enough access to investigate and respond, never to modify infrastructure.
 
