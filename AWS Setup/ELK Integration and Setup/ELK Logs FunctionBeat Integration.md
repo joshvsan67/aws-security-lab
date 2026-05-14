@@ -2,7 +2,7 @@
 
 Now this was a pain, had mutiple errors integrating functionbeat to get logs.
 
-Shout-out claude! Helped me fix some of the errors with log ingestion
+Shout-out to Claude! Helped me fix some of the errors I was getting with log ingestion.
 
 ## Issues & Fixes
 1. CloudFormation Stack Stuck in ROLLBACK_COMPLETE
