@@ -7,6 +7,12 @@
 ## Purpose
 This lab was created for educational purposes to practice cloud security monitoring, IAM hardening, detection engineering, and threat hunting within authorized AWS resources.
 
+## Screenshots from Lab
+
+Elastic Search
+<img width="1901" height="912" alt="image" src="https://github.com/user-attachments/assets/cf1eb9fb-80cb-403e-809a-dc4136432591" />
+
+
 ## In-Scope Services
 - IAM
 - EC2
