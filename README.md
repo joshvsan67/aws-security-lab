@@ -17,6 +17,11 @@ This lab was created for educational purposes to practice cloud security monitor
 
 <img width="1648" height="283" alt="image" src="https://github.com/user-attachments/assets/fae17335-7a35-4683-99cc-af5a823a3c20" />
 
+**Lambda Function**
+
+<img width="1187" height="835" alt="image" src="https://github.com/user-attachments/assets/740be8a6-a030-4680-ba8e-65bbc7763649" />
+
+
 
 ## In-Scope Services
 - IAM
